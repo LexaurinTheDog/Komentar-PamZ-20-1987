@@ -1275,6 +1275,11 @@ Odst. 1 dopadá na stavby, které jsou kulturní památkou — přemístění zd
 
 Odst. 3 zakládá informační povinnost krajského úřadu vůči odborné organizaci — po udělení souhlasu ji o tom uvědomí, aby mohla aktualizovat odbornou evidenci (Ústřední seznam kulturních památek, § 3).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 3310/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D8A6F43AD10BA027C1257A4E00697A0A?openDocument) — 18. 5. 2011, kat. A
+  > „Účinnost výpovědi z nájmu nebytových prostor, které jsou prohlášeny kulturní památkou, nelze podřídit správnímu dozoru dle zvláštního zákona. Dozor státu při přemístění kulturní památky, aby nedošlo k jejímu poškození, zničení či jinému faktickému úkonu, který by snížil její hodnotu, musí nalézt výraz při případném výkonu rozhodnutí (exekuci), nebyla-li by povinnost žalovaného vyklidit nebytový prostor splněna dobrovolně"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Obec vlastní roubenou chalupu prohlášenou kulturní památkou; plánovaná přeložka silnice vyžaduje uvolnění pozemku, obec proto zamýšlí stavbu rozebrat a znovu postavit o 200 m dál na obecním pozemku.

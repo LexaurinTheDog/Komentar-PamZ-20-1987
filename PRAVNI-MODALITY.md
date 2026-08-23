@@ -8,7 +8,6 @@
 
 Výběr obsahuje 61 reprezentativních fragmentů; zachyceny jsou zejména příkazy, zákazy, dovolení, zmocnění, oprávnění a povinnosti, domněnky a fikce. Jde o mapu normativních signálů, nikoli o náhradu výkladu celé věty: konečnou kvalifikaci vždy určuje adresát, hypotéza, právní následek a systematický kontext ustanovení.
 
-
 ## Teorie právních modalit
 
 Nauka rozlišuje **objektivní modality právní regulace** — tedy způsoby, jimiž objektivní právo normuje chování adresátů:
